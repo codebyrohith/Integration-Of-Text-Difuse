@@ -48,12 +48,21 @@ curl -X POST http://127.0.0.1:5000/api/fuse \
 
 ## Screenshots
 
-| Description                 | Screenshot          |
-| :-------------------------- | :------------------ |
-| 1. Input Product Image      | _images/input1.png_ |
-| 2. Input Texture/Logo Image | _images/input2.png_ |
-| 3. Fused Output Image       | _images/output.png_ |
-| 4. API Test Result          | _images/api.png_    |
+### 1. Input Product Image
+
+![Product Input](images/input1.png)
+
+### 2. Input Texture/Logo Image
+
+![Texture Input](images/input2.png)
+
+### 3. Fused Output Image
+
+![Fused Output](images/output.png)s
+
+### 4. API Test Result
+
+![API Test](images/api.png)
 
 ## Limitations
 
